@@ -1,4 +1,4 @@
-# Análisis de Datos de empresa gastronómica
+# Análisis de Datos de Empresa Gastronómica
 
 ![](https://github.com/federicomolina86/ProyectoGastronomico/blob/main/src/Rest.jpg)
 
@@ -11,4 +11,10 @@
 ## Tecnologías utilizadas
 - Por el momento voy a usar `SQL Server` y `Power BI`, a medida que vaya creciendo el proyecto, me gustaría usar otras herramientas y más funcionalidades.
 
-##
+## Contribuciones
+- Cualquiera que quiera darme algún consejo o modificaciones que ayuden al proyecto, estaré muy agradecido. Comunicarse por favor a:
+    - https://www.linkedin.com/in/matias-federico-molina/
+    - federicomolina86@gmail.com
+
+## Licencia
+- Estos datos y los resultados obtenidos me permitieron ser usados y publicados libremente, siempre y cuando no incluya ninguna mención u otra cosa que  lo relacione con la empresa. 
