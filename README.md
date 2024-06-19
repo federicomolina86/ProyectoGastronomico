@@ -1,6 +1,6 @@
 # Análisis de Datos de empresa gastronómica
 
-![]([https://github.com/federicomolina86/ProyectoGastronomico/blob/main/src/Rest.jpg)
+![](https://github.com/federicomolina86/ProyectoGastronomico/blob/main/src/Rest.jpg)
 
 
 ## Características
