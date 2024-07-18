@@ -9,7 +9,10 @@
 - Mi trabajo es proporcionarle insights valiosos para que pueda centrar sus esfuerzos y estrategias principalmente en los días, horarios y productos (entre otras cosas) en los cuales la venta es menor.
 
 ## Tecnologías utilizadas
-- Por el momento voy a usar `SQL Server` y `Power BI`, a medida que vaya creciendo el proyecto, me gustaría usar otras herramientas y más funcionalidades.
+- `SQL Server`
+- `Power BI`
+- `Visual Studio Code`
+- `Notepad++`
 
 ## Archivos y carpetas incluidos
 - `CSV Ventas`: archivos .csv con las ventas de cada día.
