@@ -1,0 +1,73 @@
+id_producto,nombreProducto,precio,id_categoria
+1,Papas Finas Hierbas,6500,1
+2,Hot Dog Michigan,6500,2
+3,Papas 4 Quesos,8800,1
+4,Bastones de mozarella,10800,3
+5,Salchichas Weisswurst,11000,4
+6,Nuggets de Pollo,10400,3
+7,Mix de Rebozados,19500,5
+8,Burger Clásica,8500,6
+9,Pizza Especial,6650,7
+10,Papas Revueltas,8800,1
+11,Copa Helada,1800,8
+12,Papas Cheddar,8800,1
+13,Brownie,2500,8
+14,Mix Tapeos,24500,5
+15,Lomo Yankee,10500,9
+16,Burger Vasca,8500,6
+17,Hot Dog Mexicano,7000,2
+18,Hot Dog Leinster,6500,2
+19,Papas Sin Salsa,6000,1
+20,Mix Gaucho,24500,5
+21,Pizza Fugazzeta,6150,7
+22,Sandwich de Ternera,10500,9
+23,Lomo Cuyano,9800,9
+24,Hot Dog Arizona,6500,2
+25,Carne de ternera braseada,16250,10
+26,Burger Veggie,8200,11
+27,Mini Cazuela de Quesos,7000,3
+28,Burger Yankee,9000,6
+29,Salchichas Knackwurst,9700,4
+30,Papas Huevo,7800,1
+31,Salchichas Frankfurt,9300,3
+32,Lomo Queso Azul,10500,9
+33,Tarta Veggie,8200,11
+34,Bookmakers,9500,9
+35,Milanesa a Caballo,8000,12
+36,Rabas,11500,3
+37,Ensalada Caesar,6250,11
+38,Burger Verduras Asadas,8500,6
+39,Papas Provenzal,6500,1
+40,Flan,1800,8
+41,Pizza Napolitana,6250,7
+42,Milanesa Napolitana,10800,12
+43,Milanesa Clásica,7000,12
+44,Milanesa de Berenjena Napolitana,8550,11
+45,Hot Dog NFL,7500,2
+46,Pizza mozarella,5950,7
+47,Mix de mariscos,24500,5
+48,Hot Dog Argentino,6500,2
+49,Empanadas,5700,3
+50,Bondiola,13200,10
+51,Hot Dog California,6500,2
+52,Hot Dog Nueva York,6500,2
+53,Hot Dog Francés,6500,2
+54,Nachos,11000,3
+55,Choripan,6800,9
+56,Hot Dog Super Viena,7500,2
+57,Hot Dog Suizo,8500,2
+58,Mix Alemán,21500,5
+59,Hot Dog Alemán,6500,2
+60,Pizza 4 Quesos,7350,7
+61,Cazuela aceitunas,2000,3
+62,Parfait de chocolate,2500,8
+63,Tabla Quesos,14000,13
+64,Burger Pollo Guacamole,8500,6
+65,Extra Huevo,950,14
+66,Hot Dog Italiano,6500,2
+67,Tabla Fiambres,24200,13
+68,Extra Panceta,2000,14
+69,Extra Cheddar,2000,14
+70,Hot Dog Promo,6500,15
+71,Papas Promo,6500,15
+72,Pizza Promo,6500,15
