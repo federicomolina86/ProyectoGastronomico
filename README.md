@@ -11,6 +11,11 @@
 ## Tecnologías utilizadas
 - Por el momento voy a usar `SQL Server` y `Power BI`, a medida que vaya creciendo el proyecto, me gustaría usar otras herramientas y más funcionalidades.
 
+## Archivos y carpetas incluidos
+- CSV Ventas: archivos .csv con las ventas de cada día.
+- CSV dim: archivos .csv con los registros de las tablas de dimensiones.
+- Scripts: archivos .sql e .ipynb con códigos en SQL y Python, ultilizados para creación de la base de datos, tablas y registros.
+
 ## Contribuciones
 - Cualquiera que quiera darme algún consejo o modificaciones que ayuden al proyecto, estaré muy agradecido. Comunicarse por favor a:
     - https://www.linkedin.com/in/matias-federico-molina/
