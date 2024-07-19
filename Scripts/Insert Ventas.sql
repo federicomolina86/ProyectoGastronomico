@@ -1,7 +1,7 @@
 USE Restaurante;
 
 BULK INSERT Ventas
-FROM 'D:\Documents\PC\Fede\Proyectos\Restaurante\Ventas - 2024-05-12.csv'
+FROM 'D:\Documents\PC\Fede\Proyectos\Restaurante\nombreDelArchivo.csv'
 WITH (
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '\n',
