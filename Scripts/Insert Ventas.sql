@@ -8,4 +8,4 @@ WITH (
     FIRSTROW = 2
 	)
 
-Select * from Ventas;
+SELECT * FROM Ventas;
