@@ -23,17 +23,6 @@ WITH (
 SELECT * FROM Productos;
 
 -- Insertar registros a la tabla 'calendario'
-BULK INSERT Calendario
-FROM 'D:\Documents\PC\Fede\Proyectos\Restaurante\calendar.csv'
-WITH (
-    FIELDTERMINATOR = ',',
-    ROWTERMINATOR = '\n',
-    FIRSTROW = 2
-	)
-
-SELECT * FROM calendario;
-
--- Insertar registros a la tabla 'calendario'
 INSERT INTO empleados(nombreEmpleado)
 VALUES 
 ('David'),
