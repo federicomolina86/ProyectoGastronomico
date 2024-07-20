@@ -36,21 +36,6 @@ BEGIN
     );
 END
 
--- Creación de tabla 'calendario'
-IF NOT EXISTS (SELECT * FROM sys.tables WHERE name = 'calendario')
-BEGIN
-	CREATE TABLE calendario (
- 	   id_calendario INT PRIMARY KEY IDENTITY(1,1),
-	    fecha DATE NOT NULL,
-	    hora INT NOT NULL,
-	    dia INT NOT NULL,
-	    mes INT NOT NULL,
-	    anio INT NOT NULL,
-	    dia_semana NVARCHAR(20) NOT NULL,
-	    nombre_mes NVARCHAR(20) NOT NULL,
-	    trimestre INT NOT NULL
-	);
-END
 
 -- Creación de la tabla de hechos
 IF NOT EXISTS (SELECT * FROM sys.tables WHERE name = 'ventas')
