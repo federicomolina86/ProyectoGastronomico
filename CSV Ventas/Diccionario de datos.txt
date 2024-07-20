@@ -1,0 +1,11 @@
+Diccionario de datos de tabla Ventas
+
+- id_venta: identificador de venta de cada producto.
+- nro_transaccion: identificador de ticket de compra.
+- id_producto: identificador único de producto.
+- fecha_venta: fecha de la venta realizada (AAAA-MM-DD).
+- hora_venta: hora de la venta realizada (HH:MM:SS).
+- precio: precio del producto.
+- cantidad: unidades vendidas de cada producto
+- id_empleado: identificador único de cada empleado.
+- id_mesa: número de mesa
