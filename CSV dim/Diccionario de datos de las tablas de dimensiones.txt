@@ -1,0 +1,9 @@
+Diccionario de datos de las tablas de dimensiones
+
+- id_categoria: identificador único de categoría de productos.
+- nombreCategoria: nombre de la categoría del producto.
+- id_producto: identificador único de producto.
+- nombreProducto: nombre del producto.
+- precio: precio del producto (en pesos argentinos).
+- id_empleado: identificador único del empleado.
+- nombreEmpleado: nombre de pila del empleado.
