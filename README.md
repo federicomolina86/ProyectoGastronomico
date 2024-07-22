@@ -9,7 +9,7 @@
 - Mi trabajo es proporcionarle insights valiosos para que pueda centrar sus esfuerzos y estrategias principalmente en los días, horarios y productos (entre otras cosas) en los cuales la venta es menor.
 
 
-## Fases del Análisis de Datos
+## Fases del Análisis de Datos (hasta la fecha)
 
 ### 1. Preguntas
 En esta fase, se formularon algunas preguntas clave de mi parte para conocer un poco más sobre la empresa y su funcionamiento. Inmediatamente le pedí al cliente que me preguntara e indicara qué cosas le gustaría saber sobre los datos que me proporcionaba y le sugerí algunas preguntas a responder con el análisis de datos. Algunas de las preguntas que guían este proyecto son:
@@ -42,25 +42,6 @@ En esta fase, los datos recolectados se limpian y organizan para asegurar su cal
 - Completar cada archivo con los datos proporcionados por las comandas y la carta.
 - Normalización temprana de datos (antes de ingestarlos, ya estaban los datos normalizados siguiendo las relaciones entre tablas).
 
-
-4. Análisis
-El análisis de los datos se realiza utilizando consultas SQL y herramientas de visualización de datos. Algunas de las tareas de análisis incluyen:
-
-Contar el número de transacciones por mesa y por hora
-Identificar los productos y categorías más vendidos
-Evaluar el rendimiento de los empleados
-Análisis de ventas en diferentes rangos de precios
-Visualización de tendencias de ventas a lo largo del tiempo
-5. Compartir
-Los resultados del análisis se comparten a través de reportes y dashboards interactivos. Utilizamos herramientas como Power BI y Tableau para crear visualizaciones que faciliten la interpretación de los datos por parte de los stakeholders.
-
-6. Acción
-Finalmente, los insights obtenidos del análisis de datos se utilizan para tomar decisiones informadas y acciones estratégicas. Algunas de las acciones que pueden derivarse de este proyecto incluyen:
-
-Ajustes en el menú para promover platos más rentables
-Reorganización de horarios y asignación de mesas para mejorar la eficiencia del personal
-Estrategias de marketing dirigidas a categorías de productos populares
-Optimización de precios para maximizar las ventas en diferentes rangos
 
 ## Tecnologías utilizadas
 - `SQL Server`
