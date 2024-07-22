@@ -9,9 +9,11 @@
 - Mi trabajo es proporcionarle insights valiosos para que pueda centrar sus esfuerzos y estrategias principalmente en los días, horarios y productos (entre otras cosas) en los cuales la venta es menor.
 
 ## Fases del Análisis de Datos
-1. Preguntas
+### 1. Preguntas
+
 En esta fase, se formularon algunas preguntas clave de mi parte para conocer un poco más sobre la empresa y su funcionamiento. Inmediatamente le pedí al cliente que me preguntara e indicara qué cosas le gustaría saber sobre los datos que me proporcionaba y le sugerí algunas preguntas a responder con el análisis de datos. Algunas de las preguntas que guían este proyecto son:
 
+- ¿Cuáles son los ingresos durante los últimos 60 días?
 - ¿Cuáles son los platos más vendidos?
 - ¿Cuál es el rendimiento de los empleados en términos de ventas?
 - ¿Qué categorías de productos venden más platos?
