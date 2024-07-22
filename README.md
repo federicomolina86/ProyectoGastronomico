@@ -15,9 +15,9 @@
 - `Notepad++`
 
 ## Archivos y carpetas incluidos
-- `CSV Ventas`: archivos .csv con las ventas de cada día.
-- `CSV dim`: archivos .csv con los registros de las tablas de dimensiones.
-- `Scripts`: archivos .sql e .ipynb con códigos en SQL y Python, ultilizados para creación de la base de datos, tablas y registros.
+- `CSV Ventas`: archivos .csv con las ventas de cada día y diccionario de datos.
+- `CSV dim`: archivos .csv con los registros de las tablas de dimensiones y diccionarios de datos.
+- `Scripts`: archivos .sql e .ipynb con códigos en SQL y Python, ultilizados para creación de la base de datos, tablas, registros y consultas sobre algunas preguntas del cliente.
 - `src`: carpeta con imágenes del repositorio.
 - `README.md`: archivo README del repositorio.
 
