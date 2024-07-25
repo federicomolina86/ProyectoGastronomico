@@ -45,6 +45,24 @@ En esta fase, los datos recolectados se limpian y organizan para asegurar su cal
 
 ### 4. Análisis
 
+El análisis de los datos se realiza utilizando consultas SQL en `SQL Server` y `Power BI` como herramienta de visualización de datos. Algunas de las tareas de análisis incluyen:
+
+- Identificar los productos y categorías más vendidos
+- Evaluar el rendimiento de los empleados
+- Análisis de ventas en diferentes rangos de precios
+- Visualización de tendencias de ventas a lo largo del tiempo
+
+### 5. Compartir
+
+Los resultados del análisis se comparten a través de reportes y dashboards interactivos en una reunión con los clientes. Se utilizará `Power BI` para crear visualizaciones que faciliten la interpretación de los datos por parte de los stakeholders.
+
+### 6. Acción
+Finalmente, los insights obtenidos del análisis de datos se utilizarán para tomar decisiones informadas y acciones estratégicas. Algunas de las acciones que pueden derivarse de este proyecto incluyen:
+
+- Ajustes en el menú para promover platos más rentables.
+- Reorganización de horarios y asignación de mesas para mejorar la eficiencia del personal.
+- Estrategias de marketing dirigidas a categorías de productos populares, especialmente en días y horarios donde la venta es más baja.
+- Optimización de precios para maximizar las ventas en diferentes rangos.
 
 
 ## Tecnologías utilizadas
