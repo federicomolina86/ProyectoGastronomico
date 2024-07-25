@@ -43,6 +43,10 @@ En esta fase, los datos recolectados se limpian y organizan para asegurar su cal
 - Normalización temprana de datos (antes de ingestarlos, ya estaban los datos normalizados siguiendo las relaciones entre tablas).
 
 
+### 4. Análisis
+
+
+
 ## Tecnologías utilizadas
 - `SQL Server`
 - `Power BI`
