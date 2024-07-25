@@ -63,6 +63,7 @@ Finalmente, los insights obtenidos del análisis de datos se utilizarán para to
 - Reorganización de horarios y asignación de mesas para mejorar la eficiencia del personal.
 - Estrategias de marketing dirigidas a categorías de productos populares, especialmente en días y horarios donde la venta es más baja.
 - Optimización de precios para maximizar las ventas en diferentes rangos.
+- Realización de encuestas de opinión a clientes para obtener datos importantes.
 
 
 ## Tecnologías utilizadas
