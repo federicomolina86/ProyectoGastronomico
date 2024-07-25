@@ -76,6 +76,7 @@ Finalmente, los insights obtenidos del análisis de datos se utilizarán para to
 - `CSV dim`: archivos .csv con los registros de las tablas de dimensiones y diccionarios de datos.
 - `Scripts`: archivos .sql e .ipynb con códigos en SQL y Python, ultilizados para creación de la base de datos, tablas, registros y consultas sobre algunas preguntas del cliente.
 - `src`: carpeta con imágenes del repositorio.
+- `DER.png`: diagrama de entidad-relación.
 - `README.md`: archivo README del repositorio.
 
 ## Contribuciones
