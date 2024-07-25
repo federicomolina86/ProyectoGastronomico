@@ -14,11 +14,11 @@
 ### 1. Preguntas
 En esta fase, se formularon algunas preguntas clave de mi parte para conocer un poco más sobre la empresa y su funcionamiento. Inmediatamente le pedí al cliente que me preguntara e indicara qué cosas le gustaría saber sobre los datos que me proporcionaba y le sugerí algunas preguntas a responder con el análisis de datos. Algunas de las preguntas que guían este proyecto son:
 
-- ¿Cuáles son los ingresos durante los últimos 60 días?
 - ¿Cuáles son los platos más vendidos?
 - ¿Cuál es el rendimiento de los empleados en términos de ventas?
 - ¿Qué categorías de productos venden más platos?
-- ¿Cómo varían las ventas a lo largo del día?
+- ¿Cómo varían las ventas a lo largo de la semana?
+- ¿En qué horarios del día se producen la mayor cantidad de ventas?
 - ¿Qué rangos de precios son los más populares entre los clientes?
 
 
