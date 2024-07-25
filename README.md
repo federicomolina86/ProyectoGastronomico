@@ -1,7 +1,8 @@
 # Análisis de Datos de Empresa Gastronómica
 
-![](https://github.com/federicomolina86/ProyectoGastronomico/blob/main/src/Rest.jpg)
-
+<p align="center">
+  <img src="https://github.com/federicomolina86/PortfolioProyectosFedeMolina/blob/main/src/Rest.jpg">
+</p>
 
 ## Características
 - Este proyecto es parte de un trabajo freelance que estoy realizando para un restaurante de mi provincia, propiedad de un amigo.
