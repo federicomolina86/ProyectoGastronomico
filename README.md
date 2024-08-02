@@ -81,6 +81,7 @@ También, como consecuencia de la presentación, surgieron nuevas preguntas de p
 - `Scripts`: archivos .sql e .ipynb con códigos en SQL y Python, ultilizados para creación de la base de datos, tablas, registros y consultas sobre algunas preguntas del cliente.
 - `src`: carpeta con imágenes del repositorio.
 - `DER.png`: diagrama de entidad-relación.
+- `Vista del modelo.png`: vista de las relaciones entre tablas del modelo semántico.
 - `README.md`: archivo README del repositorio.
 
 ## Contribuciones
