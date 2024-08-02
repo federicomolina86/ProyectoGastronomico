@@ -58,13 +58,15 @@ El análisis de los datos se realiza utilizando consultas SQL en `SQL Server` y 
 Los resultados del análisis se comparten a través de reportes y dashboards interactivos en una reunión con los clientes. Se utilizará `Power BI` para crear visualizaciones que faciliten la interpretación de los datos por parte de los stakeholders.
 
 ### 6. Acción
-Finalmente, los insights obtenidos del análisis de datos se utilizarán para tomar decisiones informadas y acciones estratégicas. Algunas de las acciones que pueden derivarse de este proyecto incluyen:
+Finalmente, los insights obtenidos del análisis de datos se utilizaron para tomar decisiones informadas y acciones estratégicas. Algunas de las acciones que derivaron de este proyecto incluyen:
 
 - Ajustes en el menú para promover platos más rentables.
 - Reorganización de horarios y asignación de mesas para mejorar la eficiencia del personal.
 - Estrategias de marketing dirigidas a categorías de productos populares, especialmente en días y horarios donde la venta es más baja.
 - Optimización de precios para maximizar las ventas en diferentes rangos.
 - Realización de encuestas de opinión a clientes para obtener datos importantes.
+
+También, como consecuencia de la presentación, surgieron nuevas preguntas de parte del cliente para responder en una próxima reunión.
 
 
 ## Tecnologías utilizadas
