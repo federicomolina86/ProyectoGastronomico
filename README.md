@@ -78,7 +78,12 @@ También, como consecuencia de la presentación, surgieron nuevas preguntas de p
 ## Archivos y carpetas incluidos
 - `CSV Ventas`: archivos .csv con las ventas de cada día y diccionario de datos.
 - `CSV dim`: archivos .csv con los registros de las tablas de dimensiones y diccionarios de datos.
-- `Scripts`: archivos .sql e .ipynb con códigos en SQL y Python, ultilizados para creación de la base de datos, tablas, registros y consultas sobre algunas preguntas del cliente.
+- `Scripts`: archivos .sql e .ipynb con códigos en SQL y Python, ultilizados para  registros y .
+    - `Consultas a responder.sql`: consultas sobre las preguntas del cliente. 
+    - `Creación DB y tablas.sql`: creación de la base de datos y tablas de hecho y dimensiones.
+    - `IngestaDeDatos.ipynb`: archivo de Python usado para la carga automatizada de los registros diarios de ventas.
+    - `Insert Ventas.sql`: archivo de ingesta en SQL.
+    - `Inserts dimensiones.sql`: ingesta de registros de las tablas de dimensiones.
 - `src`: carpeta con imágenes del repositorio.
 - `DER.png`: diagrama de entidad-relación.
 - `Vista del modelo.png`: vista de las relaciones entre tablas del modelo semántico.
