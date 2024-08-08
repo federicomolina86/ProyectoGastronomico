@@ -69,13 +69,20 @@ Finalmente, los insights obtenidos del análisis de datos se utilizaron para tom
 También, como consecuencia de la presentación, surgieron nuevas preguntas de parte del cliente para responder en una próxima reunión.
 
 ## Dashboard
-  En el informe presentado al cliente mostré algunos KPIs importantes de la Gastronomía y particularmente de Restaurantes, seguido por objetos visuales que mostraban los aspectos que más le interesaban al propietario: análisis de ganancias, productos más vendidos, categorías más vendidas, ventas de empleados, ventas filtradas por horarios y días, etc. Los KPIs presentados en el dashboard son:
+  En el informe presentado al cliente mostré KPIs importantes de la Gastronomía y particularmente de Restaurantes, algunos insights importantes para la empresa y objetos visuales que mostraban los aspectos que más le interesaban al propietario: análisis de ganancias, productos más vendidos, categorías más vendidas, ventas de empleados, ventas filtradas por horarios y días, etc.
+  Los KPIs presentados en el dashboard son:
 - `Flujo de caja`: diferencia entre ventas y gastos.
 - `Ticket promedio`: monto promedio entre ventas y cantidad de tickets emitidos.
 - `RevPASH` (Revenue Per Seat Hour): ganancia por hora por cada silla disponible.
 - `Productividad`: monto en ventas por cada hora de trabajo del empleado.
 
-
+  Los objetos visuales que se encuentran en el dashboard son:
+- `Gráficos de barras apiladas`: para mostrar los productos y categorías de productos más vendidos.
+- `Gráficos de columnas apiladas y líneas`: analizando las ventas de los empleados.
+- `Gráfico de anillo`: para mostrar las ventas de los dos meses analizados.
+- `Gráfico de áreas`: Inteligencia de Tiempo mostrando las ventas, cantidades vendidas en función del tiempo.
+  
+  
 ## Tecnologías utilizadas
 - `SQL Server`
 - `Power BI`
