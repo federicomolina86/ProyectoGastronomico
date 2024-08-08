@@ -86,7 +86,7 @@ Los objetos visuales que se encuentran en el dashboard son:
 - `Gráfico de áreas`: Inteligencia de Tiempo mostrando las ventas, cantidades vendidas en función del tiempo.
 
 <p align="center">
-  <img src="https://github.com/federicomolina86/PortfolioProyectosFedeMolina/blob/main/src/Dashboard.png">
+  <img src="https://github.com/federicomolina86/PortfolioProyectosFedeMolina/blob/main/src/Dashboard.jpg">
 </p>
   
   
